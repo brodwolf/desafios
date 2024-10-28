@@ -20,6 +20,8 @@ Os desafios de backend podem ser implementados usando as seguintes linguagens e 
 - **Python** (Flask, Django)
 - **Node.js** (Express, Nest)
 - **Java** (Spring)
+- **PHP** (Laravel)
+- **GO**
 
 ### Frontend
 Os desafios de frontend podem ser realizados com:
